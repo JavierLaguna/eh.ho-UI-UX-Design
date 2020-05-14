@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
 
-![Image of Yaktocat](/assets/logo.png)
+![Logo](/assets/logo.png)
 
 > eh.ho UI/UX Design is a practice of 'ux-movil-diseño-ui' for KeepCoding Mobile 10
 
@@ -14,3 +14,7 @@
 ##### Author
 
 > Javier Laguna
+
+![Topics](/captures/Topics-iPhone11Pro.png)
+![Users](/captures/Users-iPhone11Pro.png)
+![Users 2](/captures/Users2-iPhone11Pro.png)
